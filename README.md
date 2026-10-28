@@ -1,1 +1,2 @@
 # tamagotchi-pokemon
+Primer commit
